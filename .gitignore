@@ -1,0 +1,16 @@
+venv/
+.env
+*.pyc
+__pycache__/
+.pytest_cache/
+.idea/
+*.log
+*.cache
+*.tmp
+*.swp
+*.swo
+*~
+~$*
+*.sqlite
+*.dump
+*.bak
